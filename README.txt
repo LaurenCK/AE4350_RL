@@ -1,5 +1,5 @@
 Lauren Kaffa
-13-8-2021
+16-8-2021
 Assignment AE4350
 
 Code consists of 3 RL algorithms: PG, QL and DQN (DQN is not included in report due to page restrictions)
